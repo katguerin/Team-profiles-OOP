@@ -1,0 +1,28 @@
+{
+  "name": "team-profiles-oop",
+  "version": "1.0.0",
+  "description": "Module 10 Object Oriented",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katguerin/Team-profiles-OOP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/katguerin/Team-profiles-OOP",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/katguerin/Team-profiles-OOP/issues"
+  }
+}
